@@ -1,0 +1,5 @@
+id,name,reference_number,price,stock,category,description,variants,created_at
+00db086a-d165-4ae3-8854-363aca781ad9,dd,ref4,344,27,shirt,,S:1;M:22;L:4,6/6/2025
+75b8a241-ac70-48af-8ecd-266dd6f32626,jeff colin,ref3,999,38,shirt,,s:20;m:18,6/6/2025
+86b2c12e-0f31-4acf-be7c-548eed64727a,PANT,REF2,3999,36,pant,,30:18;28:18,6/6/2025
+d59f8540-15e1-454e-976b-ce50882fb164,shirt xs,REF1,399,1,shirt,,32:1,6/5/2025

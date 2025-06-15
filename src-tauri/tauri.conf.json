@@ -27,8 +27,8 @@
     "active": true,
     "targets": "all",
     "icon": [
-      "icons/favicon_io/favicon-32x32.png",
-      "icons/favicon_io/favicon-32x32.png",
+      "icons/favicon_io/favicon-16x16.png",
+      "icons/favicon_io/apple-touch-icon.png",
       "icons/favicon_io/favicon.ico"
     ]
   }

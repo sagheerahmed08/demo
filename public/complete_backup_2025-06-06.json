@@ -1,0 +1,152 @@
+{
+  "export_date": "2025-06-06T16:02:17.396Z",
+  "shop_settings": {
+    "shopName": "I AM BACK 3",
+    "address": "123 Fashion Street, Fashion City",
+    "phone": "123-456-7890",
+    "email": "info@fashionhub.com",
+    "gstNo": "GST123456789",
+    "currency": {
+      "name": "INR",
+      "symbol": "₹"
+    },
+    "taxRate": 0,
+    "returnPolicy": "For returns and exchanges, please visit our store within 7 days with the original receipt.",
+    "darkMode": false,
+    "customFields": {
+      "offer": "Buy 1 Get 1"
+    },
+    "theme": "default"
+  },
+  "sales": [],
+  "sale_items": [],
+  "products": [
+    {
+      "id": "00db086a-d165-4ae3-8854-363aca781ad9",
+      "name": "dd",
+      "reference_number": "ref4",
+      "price": 344,
+      "stock": 27,
+      "category": "shirt",
+      "variants": "S:1;M:22;L:4",
+      "created_at": "6/6/2025"
+    },
+    {
+      "id": "75b8a241-ac70-48af-8ecd-266dd6f32626",
+      "name": "jeff colin",
+      "reference_number": "ref3",
+      "price": 999,
+      "stock": 38,
+      "category": "shirt",
+      "variants": "s:20;m:18",
+      "created_at": "6/6/2025"
+    },
+    {
+      "id": "86b2c12e-0f31-4acf-be7c-548eed64727a",
+      "name": "PANT",
+      "reference_number": "REF2",
+      "price": 3999,
+      "stock": 36,
+      "category": "pant",
+      "variants": "30:18;28:18",
+      "created_at": "6/6/2025"
+    },
+    {
+      "id": "d59f8540-15e1-454e-976b-ce50882fb164",
+      "name": "shirt xs",
+      "reference_number": "REF1",
+      "price": 399,
+      "stock": 1,
+      "category": "shirt",
+      "variants": "32:1",
+      "created_at": "6/5/2025"
+    }
+  ],
+  "customers": [],
+  "inventory_report": [
+    {
+      "product_id": "d59f8540-15e1-454e-976b-ce50882fb164",
+      "product_name": "shirt xs",
+      "reference_number": "REF1",
+      "category": "shirt",
+      "price": 399,
+      "variants": [
+        {
+          "size": "32",
+          "stock": 1,
+          "low_stock": true
+        }
+      ],
+      "total_variant_stock": 1,
+      "low_stock_variants": 1
+    },
+    {
+      "product_id": "86b2c12e-0f31-4acf-be7c-548eed64727a",
+      "product_name": "PANT",
+      "reference_number": "REF2",
+      "category": "pant",
+      "price": 3999,
+      "variants": [
+        {
+          "size": "30",
+          "stock": 18,
+          "low_stock": false
+        },
+        {
+          "size": "28",
+          "stock": 18,
+          "low_stock": false
+        }
+      ],
+      "total_variant_stock": 36,
+      "low_stock_variants": 0
+    },
+    {
+      "product_id": "75b8a241-ac70-48af-8ecd-266dd6f32626",
+      "product_name": "jeff colin",
+      "reference_number": "ref3",
+      "category": "shirt",
+      "price": 999,
+      "variants": [
+        {
+          "size": "s",
+          "stock": 20,
+          "low_stock": false
+        },
+        {
+          "size": "m",
+          "stock": 18,
+          "low_stock": false
+        }
+      ],
+      "total_variant_stock": 38,
+      "low_stock_variants": 0
+    },
+    {
+      "product_id": "00db086a-d165-4ae3-8854-363aca781ad9",
+      "product_name": "dd",
+      "reference_number": "ref4",
+      "category": "shirt",
+      "price": 344,
+      "variants": [
+        {
+          "size": "S",
+          "stock": 1,
+          "low_stock": true
+        },
+        {
+          "size": "M",
+          "stock": 22,
+          "low_stock": false
+        },
+        {
+          "size": "L",
+          "stock": 4,
+          "low_stock": true
+        }
+      ],
+      "total_variant_stock": 27,
+      "low_stock_variants": 2
+    }
+  ]
+}

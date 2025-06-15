@@ -1,0 +1,11 @@
+C:\Users\saghe\OneDrive\Desktop\billv\src-tauri\target\release\deps\liblibc-f547849a1154b9d2.rmeta: C:\Users\saghe\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.173\src\lib.rs C:\Users\saghe\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.173\src\macros.rs C:\Users\saghe\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.173\src\primitives.rs C:\Users\saghe\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.173\src\windows\mod.rs C:\Users\saghe\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.173\src\windows\msvc\mod.rs
+
+C:\Users\saghe\OneDrive\Desktop\billv\src-tauri\target\release\deps\liblibc-f547849a1154b9d2.rlib: C:\Users\saghe\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.173\src\lib.rs C:\Users\saghe\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.173\src\macros.rs C:\Users\saghe\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.173\src\primitives.rs C:\Users\saghe\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.173\src\windows\mod.rs C:\Users\saghe\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.173\src\windows\msvc\mod.rs
+
+C:\Users\saghe\OneDrive\Desktop\billv\src-tauri\target\release\deps\libc-f547849a1154b9d2.d: C:\Users\saghe\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.173\src\lib.rs C:\Users\saghe\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.173\src\macros.rs C:\Users\saghe\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.173\src\primitives.rs C:\Users\saghe\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.173\src\windows\mod.rs C:\Users\saghe\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.173\src\windows\msvc\mod.rs
+
+C:\Users\saghe\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.173\src\lib.rs:
+C:\Users\saghe\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.173\src\macros.rs:
+C:\Users\saghe\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.173\src\primitives.rs:
+C:\Users\saghe\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.173\src\windows\mod.rs:
+C:\Users\saghe\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.173\src\windows\msvc\mod.rs:
